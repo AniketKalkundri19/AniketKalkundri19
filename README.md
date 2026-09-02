@@ -144,24 +144,6 @@ Learn System Design                         ██░░░░░░░░
 
 ---
 
-### 📈 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AniketKalkundri19&show_icons=true&hide_border=true&count_private=true"
-    alt="Aniket's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketKalkundri19&layout=compact&hide_border=true"
-    alt="Aniket's Top Languages"
-  />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
