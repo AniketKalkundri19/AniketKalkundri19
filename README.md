@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketkalkundri19&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkalkundri19" /> </p>
 
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **JAVA Full Stack**
 
 - 💬 Ask me about **MERN , DSA**
 
